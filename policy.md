@@ -28,7 +28,8 @@
 # 3. target 
 
 - XXXXX
-- please refer some standards
+- please refer some [standards](https://github.com/yuukiyoshida0628/test0704/blob/master/standard.md)
+- 
 
 
 
